@@ -1,0 +1,35 @@
+.contenedor{
+display: flex;
+justify-content: center;
+}
+
+.box{
+position: relative;
+
+}
+
+.btn{
+    position: absolute;
+    right: 0;
+    top: 9px;
+    
+    border: none;
+    
+    background: none;
+    }
+
+.input{
+    font-size: 20px;
+    
+    
+height: 30px;
+border-radius: 10px;
+height: 100%;
+padding: 5px 50px 5px 10px;
+}
+
+.input:focus{
+    outline: none;
+    border-color: aqua;
+    
+}

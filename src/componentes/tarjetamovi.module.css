@@ -1,0 +1,26 @@
+
+.movieCard{
+   
+    list-style: none;
+    font-size: 1.5rem;
+    text-align: center;
+
+}
+
+.movieImage{
+    border-radius: 10px;
+    background-color: azure;
+}
+
+.movieCard :hover{
+    border-radius: 15%;
+    opacity: 0.8;
+
+}
+
+@media (max-width: 560px){
+    .movieImage {
+       width: 150%;
+       height: auto;
+    }
+}

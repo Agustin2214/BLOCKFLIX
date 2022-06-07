@@ -1,0 +1,26 @@
+.detalleContenedor{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    
+
+
+}
+.img{
+    border-radius: 15px;
+    
+    }
+
+.texto{
+font-size: 1.5rem;    
+max-width: 400px;
+margin: 15px;
+height: auto;
+height: 80%;
+   
+}
+
+.primero{
+    margin-top: 0;
+}
+
